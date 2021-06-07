@@ -204,11 +204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\Calculator\\CalculatorAPI\\CalculatorAPI.csproj",
+      "projectUniqueName": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\calculatorAspNet\\CalculatorAPI\\CalculatorAPI.csproj",
       "projectName": "CalculatorAPI",
-      "projectPath": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\Calculator\\CalculatorAPI\\CalculatorAPI.csproj",
+      "projectPath": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\calculatorAspNet\\CalculatorAPI\\CalculatorAPI.csproj",
       "packagesPath": "C:\\Users\\wallison\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\Calculator\\CalculatorAPI\\obj\\",
+      "outputPath": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\calculatorAspNet\\CalculatorAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wallison\\AppData\\Roaming\\NuGet\\NuGet.Config"

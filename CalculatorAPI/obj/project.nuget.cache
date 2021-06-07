@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qjCaWUTHc78n755t04fIlwE0Sg25o8aUsti4rlIzcZ9zGfd+7eBK0FlwkN7oQbRaav62Ho9izZsxmGF0JK2dXA==",
+  "dgSpecHash": "/rMg3D0rzby3u/irMZLgdVh7Z5k5tkFjp4XyzFJPzwYSXL/XjU/tpk4rrNW08G6ocZ5jMOyzGFmbqBIC0PegIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\Calculator\\CalculatorAPI\\CalculatorAPI.csproj",
+  "projectFilePath": "C:\\Users\\wallison\\Documents\\projetos\\Projetos ASP.Net\\calculatorAspNet\\CalculatorAPI\\CalculatorAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wallison\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\wallison\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
